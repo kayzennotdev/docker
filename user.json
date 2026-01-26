@@ -41,12 +41,5 @@
     "expire": "2026-02-25T15:01:39.233Z",
     "key": "undefined",
     "expired": null
-  },
-  {
-    "username": "testt",
-    "password": "9898",
-    "role": "partner",
-    "created_at": "2026-01-26T15:15:43.355Z",
-    "expire": "2026-02-25T15:15:43.355Z"
   }
 ]
