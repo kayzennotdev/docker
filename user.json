@@ -155,5 +155,12 @@
     "expired": 1777226263345,
     "role": "mods",
     "created_at": "2026-01-26T17:57:43.345Z"
+  },
+  {
+    "username": "wan",
+    "key": "RTBF",
+    "expired": 1777227770339,
+    "role": "mods",
+    "created_at": "2026-01-26T18:22:50.339Z"
   }
 ]
