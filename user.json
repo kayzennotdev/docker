@@ -127,5 +127,12 @@
     "expired": 1772039956265,
     "role": "reseller",
     "created_at": "2026-01-26T17:19:16.265Z"
+  },
+  {
+    "username": "bima",
+    "key": "F4SH",
+    "expired": 1774632097815,
+    "role": "reseller",
+    "created_at": "2026-01-26T17:21:37.815Z"
   }
 ]
