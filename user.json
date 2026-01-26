@@ -99,5 +99,12 @@
     "expired": 1777223410747,
     "role": "mods",
     "created_at": "2026-01-26T17:10:10.747Z"
+  },
+  {
+    "username": "amm",
+    "key": "BS84",
+    "expired": 1777223628952,
+    "role": "mods",
+    "created_at": "2026-01-26T17:13:48.952Z"
   }
 ]
