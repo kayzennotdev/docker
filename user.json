@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "username": "lanz",
+    "key": "UX7E",
+    "expired": 1769765127088,
+    "role": "user"
+  },
+  {
+    "username": "kyx",
+    "key": "7Z8M",
+    "expired": 1769766158042,
+    "role": "user"
+  },
+  {
+    "username": "zadev",
+    "key": "3YQ2",
+    "expired": 1769836094322,
+    "role": "user"
+  },
+  {
+    "username": "xyzen",
+    "key": "CLE6",
+    "expired": 1769880956869,
+    "role": "user"
+  },
+  {
+    "username": "zunnun",
+    "key": "48XL",
+    "expired": 1769968629118,
+    "role": "reseller"
+  },
+  {
+    "username": "AzkaStarBoyy",
+    "key": "HMTY",
+    "expired": 1771965509893,
+    "role": "admin"
+  },
+  {
+    "username": "moonzy",
+    "key": "E9KU",
+    "expired": 1771967172293,
+    "role": "admin"
+  },
+  {
+    "username": "kayzenn",
+    "key": "2000",
+    "expired": 1771967183047,
+    "role": "owner"
+  },
+  {
+    "username": "azka",
+    "key": "MQMB",
+    "expired": 1771967274097,
+    "role": "admin"
+  },
+  {
+    "username": "testuser",
+    "key": "tesqq",
+    "expired": 1771967344799,
+    "role": "reseller",
+    "telegram_id": "",
+    "isLoggedIn": false
+  },
+  {
+    "username": "cutan",
+    "key": "0000",
+    "expired": 1771970565445,
+    "role": "admin",
+    "telegram_id": "",
+    "isLoggedIn": false
+  },
+  {
+    "username": "jarx",
+    "key": "W55G",
+    "expired": 1771976727602,
+    "role": "admin"
+  },
+  {
+    "username": "amm",
+    "key": "WSC5",
+    "expired": 1771976789300,
+    "role": "admin"
+  },
+  {
+    "username": "sar",
+    "key": "AFJG",
+    "expired": 1771977174734,
+    "role": "admin"
+  }
+]
