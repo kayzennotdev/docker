@@ -36,9 +36,11 @@
   {
     "username": "ememek",
     "password": "kayzen",
-    "role": "user",
+    "role": "( {targetuser.role || 'user'}",
     "created_at": "2026-01-26T15:01:39.233Z",
-    "expire": "2026-02-25T15:01:39.233Z"
+    "expire": "2026-02-25T15:01:39.233Z",
+    "key": "undefined",
+    "expired": null
   },
   {
     "username": "testt",
