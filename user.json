@@ -78,5 +78,12 @@
     "role": "user",
     "created_at": "2026-01-26T16:42:18.764Z",
     "expire": "2026-02-25T16:42:18.764Z"
+  },
+  {
+    "username": "Lyric ",
+    "password": "97ZS",
+    "role": "user",
+    "created_at": "2026-01-26T16:44:08.512Z",
+    "expire": "2026-02-25T16:44:08.512Z"
   }
 ]
