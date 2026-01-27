@@ -275,5 +275,12 @@
     "expired": 1772109785918,
     "role": "mods",
     "created_at": "2026-01-27T12:43:05.919Z"
+  },
+  {
+    "username": "ucupucup2",
+    "key": "RE7E",
+    "expired": 1770123077311,
+    "role": "user",
+    "created_at": "2026-01-27T12:51:17.311Z"
   }
 ]
