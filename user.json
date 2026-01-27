@@ -375,5 +375,12 @@
     "expired": 1772116844319,
     "role": "tangankanan",
     "created_at": "2026-01-27T14:40:44.319Z"
+  },
+  {
+    "username": "gen",
+    "key": "JASG",
+    "expired": 1855839711467,
+    "role": "reseller",
+    "created_at": "2026-01-27T15:01:51.467Z"
   }
 ]
