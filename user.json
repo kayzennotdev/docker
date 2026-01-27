@@ -331,5 +331,12 @@
     "expired": 1772114258244,
     "role": "reseller",
     "created_at": "2026-01-27T13:57:38.244Z"
+  },
+  {
+    "username": "varohots",
+    "key": "9MAY",
+    "expired": 1770645575096,
+    "role": "mods",
+    "created_at": "2026-01-27T13:59:35.096Z"
   }
 ]
