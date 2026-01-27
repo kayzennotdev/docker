@@ -353,5 +353,12 @@
     "expired": 1772115786737,
     "role": "user",
     "created_at": "2026-01-27T14:23:06.738Z"
+  },
+  {
+    "username": "zack",
+    "key": "D8BB",
+    "expired": 1771252099477,
+    "role": "reseller",
+    "created_at": "2026-01-27T14:28:19.477Z"
   }
 ]
