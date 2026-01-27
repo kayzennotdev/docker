@@ -296,5 +296,12 @@
     "expired": 1772111610221,
     "role": "mods",
     "created_at": "2026-01-27T13:13:30.221Z"
+  },
+  {
+    "username": "imam",
+    "key": "2Y57",
+    "expired": 1770815688687,
+    "role": "user",
+    "created_at": "2026-01-27T13:14:48.687Z"
   }
 ]
