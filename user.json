@@ -303,5 +303,12 @@
     "expired": 1770815688687,
     "role": "user",
     "created_at": "2026-01-27T13:14:48.687Z"
+  },
+  {
+    "username": "Dapay",
+    "key": "DW64",
+    "expired": 1778074960559,
+    "role": "mods",
+    "created_at": "2026-01-27T13:42:40.559Z"
   }
 ]
