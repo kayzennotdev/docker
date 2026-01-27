@@ -225,5 +225,12 @@
     "expired": 1772087924861,
     "role": "mods",
     "created_at": "2026-01-27T06:38:44.861Z"
+  },
+  {
+    "username": "vanz",
+    "key": "5827",
+    "expired": 1772107734350,
+    "role": "mods",
+    "created_at": "2026-01-27T12:08:54.350Z"
   }
 ]
