@@ -204,5 +204,12 @@
     "expired": 1777249857871,
     "role": "mods",
     "created_at": "2026-01-27T00:30:57.871Z"
+  },
+  {
+    "username": "rann",
+    "key": "PA5P",
+    "expired": 1855889268278,
+    "role": "mods",
+    "created_at": "2026-01-27T04:47:48.278Z"
   }
 ]
