@@ -317,5 +317,12 @@
     "expired": 1769629876072,
     "role": "tangankanan",
     "created_at": "2026-01-27T13:51:16.072Z"
+  },
+  {
+    "username": "hanafi",
+    "key": "L22N",
+    "expired": 1772114075373,
+    "role": "mods",
+    "created_at": "2026-01-27T13:54:35.373Z"
   }
 ]
