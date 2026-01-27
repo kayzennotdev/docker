@@ -417,5 +417,12 @@
     "expired": 1772120006507,
     "role": "reseller",
     "created_at": "2026-01-27T15:33:26.507Z"
+  },
+  {
+    "username": "dechoz",
+    "key": "F47Z",
+    "expired": 1777305121967,
+    "role": "mods",
+    "created_at": "2026-01-27T15:52:01.967Z"
   }
 ]
