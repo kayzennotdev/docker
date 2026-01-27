@@ -424,5 +424,12 @@
     "expired": 1777305121967,
     "role": "mods",
     "created_at": "2026-01-27T15:52:01.967Z"
+  },
+  {
+    "username": ".",
+    "key": "Q459",
+    "expired": 1770311656033,
+    "role": "user",
+    "created_at": "2026-01-27T17:14:16.033Z"
   }
 ]
