@@ -267,5 +267,12 @@
     "expired": 1855830935660,
     "role": "reseller",
     "created_at": "2026-01-27T12:35:35.660Z"
+  },
+  {
+    "username": "zunun",
+    "key": "QYB3",
+    "expired": 1772109785918,
+    "role": "mods",
+    "created_at": "2026-01-27T12:43:05.919Z"
   }
 ]
