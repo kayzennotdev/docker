@@ -194,10 +194,11 @@
   },
   {
     "username": "lanz",
-    "key": "Z47L",
-    "expired": 1777249857871,
-    "role": "mods",
-    "created_at": "2026-01-27T00:30:57.871Z"
+    "key": "9H7V",
+    "expired": 1771342567677,
+    "role": "partner",
+    "created_at": "2026-01-27T00:30:57.871Z",
+    "updated_at": "2026-01-28T15:36:07.677Z"
   },
   {
     "username": "rann",
