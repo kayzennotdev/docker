@@ -542,5 +542,12 @@
     "expired": 88169527617055,
     "role": "user",
     "created_at": "2026-01-28T15:26:57.055Z"
+  },
+  {
+    "username": "repi",
+    "password": "repi11",
+    "role": "reseller",
+    "created_at": "2026-01-28T22:57:20.366Z",
+    "expire": "2026-02-27T22:57:20.366Z"
   }
 ]
