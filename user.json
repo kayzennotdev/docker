@@ -468,5 +468,12 @@
     "expired": 1772185617314,
     "role": "mods",
     "created_at": "2026-01-28T09:46:57.314Z"
+  },
+  {
+    "username": "daxz",
+    "key": "FMF5",
+    "expired": 1772186239069,
+    "role": "reseller",
+    "created_at": "2026-01-28T09:57:19.069Z"
   }
 ]
