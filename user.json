@@ -505,5 +505,12 @@
     "role": "user",
     "created_at": "2026-01-28T11:39:52.899Z",
     "expire": "2026-02-27T11:39:52.899Z"
+  },
+  {
+    "username": "dapz",
+    "key": "45SR",
+    "expired": 2633519388176,
+    "role": "mods",
+    "created_at": "2026-01-28T13:09:48.176Z"
   }
 ]
