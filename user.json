@@ -482,5 +482,12 @@
     "role": "owner",
     "created_at": "2026-01-28T09:59:48.016Z",
     "expire": "2026-04-28T09:59:48.016Z"
+  },
+  {
+    "username": "TatsPedia",
+    "key": "7F52",
+    "expired": 1772186540551,
+    "role": "reseller",
+    "created_at": "2026-01-28T10:02:20.551Z"
   }
 ]
