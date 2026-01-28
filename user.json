@@ -469,5 +469,12 @@
     "role": "mods",
     "created_at": "2026-01-28T09:45:50.833Z",
     "updated_at": "2026-01-28T09:46:34.125Z"
+  },
+  {
+    "username": "EvanMods",
+    "key": "TYBJ",
+    "expired": 1772185617314,
+    "role": "mods",
+    "created_at": "2026-01-28T09:46:57.314Z"
   }
 ]
