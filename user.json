@@ -648,5 +648,12 @@
     "expired": 1778330695137,
     "role": "mods",
     "created_at": "2026-01-29T12:44:55.137Z"
+  },
+  {
+    "username": "Razzy",
+    "key": "DDYW",
+    "expired": 2633604496820,
+    "role": "mods",
+    "created_at": "2026-01-29T12:48:16.820Z"
   }
 ]
