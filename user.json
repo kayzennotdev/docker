@@ -718,5 +718,12 @@
     "expired": 1770302684260,
     "role": "reseller",
     "created_at": "2026-01-29T14:44:44.260Z"
+  },
+  {
+    "username": "emir",
+    "key": "T8LW",
+    "expired": 1770219272264,
+    "role": "user",
+    "created_at": "2026-01-29T15:34:32.264Z"
   }
 ]
