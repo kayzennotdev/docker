@@ -655,5 +655,12 @@
     "expired": 2633604496820,
     "role": "mods",
     "created_at": "2026-01-29T12:48:16.820Z"
+  },
+  {
+    "username": "raffi",
+    "key": "A29T",
+    "expired": 1795611059257,
+    "role": "mods",
+    "created_at": "2026-01-29T12:50:59.257Z"
   }
 ]
