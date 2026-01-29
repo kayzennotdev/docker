@@ -620,5 +620,12 @@
     "expired": 1769934596922,
     "role": "user",
     "created_at": "2026-01-29T08:29:56.922Z"
+  },
+  {
+    "username": "opex",
+    "key": "LWPR",
+    "expired": 1772275927928,
+    "role": "reseller",
+    "created_at": "2026-01-29T10:52:07.928Z"
   }
 ]
