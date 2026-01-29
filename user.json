@@ -585,5 +585,12 @@
     "expired": 1778307398164,
     "role": "partner",
     "created_at": "2026-01-29T06:16:38.164Z"
+  },
+  {
+    "username": "lenn",
+    "key": "SEMD",
+    "expired": 1778224693047,
+    "role": "mods",
+    "created_at": "2026-01-29T07:18:13.047Z"
   }
 ]
