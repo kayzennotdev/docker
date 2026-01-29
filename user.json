@@ -606,5 +606,12 @@
     "expired": 1772265762933,
     "role": "user",
     "created_at": "2026-01-29T08:02:42.933Z"
+  },
+  {
+    "username": "usep",
+    "key": "G93S",
+    "expired": 1770107079215,
+    "role": "user",
+    "created_at": "2026-01-29T08:24:39.215Z"
   }
 ]
