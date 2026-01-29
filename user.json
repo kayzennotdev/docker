@@ -578,5 +578,12 @@
     "expired": 1772253835031,
     "role": "reseller",
     "created_at": "2026-01-29T04:43:55.035Z"
+  },
+  {
+    "username": "senn",
+    "key": "VUCR",
+    "expired": 1778307329208,
+    "role": "user",
+    "created_at": "2026-01-29T06:15:29.208Z"
   }
 ]
