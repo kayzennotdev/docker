@@ -726,5 +726,12 @@
     "expired": 1770219272264,
     "role": "user",
     "created_at": "2026-01-29T15:34:32.264Z"
+  },
+  {
+    "username": "rizki",
+    "key": "PRAA",
+    "expired": 1777490957138,
+    "role": "reseller",
+    "created_at": "2026-01-29T19:29:17.138Z"
   }
 ]
