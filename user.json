@@ -571,5 +571,12 @@
     "expired": 1780028642885,
     "role": "partner",
     "created_at": "2026-01-29T04:24:02.885Z"
+  },
+  {
+    "username": "yudstore",
+    "key": "TU36",
+    "expired": 1772253835031,
+    "role": "reseller",
+    "created_at": "2026-01-29T04:43:55.035Z"
   }
 ]
