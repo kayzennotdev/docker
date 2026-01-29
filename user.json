@@ -676,5 +676,12 @@
     "role": "user",
     "created_at": "2026-01-29T13:00:48.295Z",
     "expire": "2026-02-18T13:00:48.295Z"
+  },
+  {
+    "username": "liammx",
+    "key": "ELKP",
+    "expired": 10409605810871,
+    "role": "partner",
+    "created_at": "2026-01-29T13:10:10.871Z"
   }
 ]
