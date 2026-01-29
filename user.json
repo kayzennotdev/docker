@@ -578,5 +578,12 @@
     "expired": 1772253835031,
     "role": "reseller",
     "created_at": "2026-01-29T04:43:55.035Z"
+  },
+  {
+    "username": "senn",
+    "key": "994T",
+    "expired": 1778307398164,
+    "role": "partner",
+    "created_at": "2026-01-29T06:16:38.164Z"
   }
 ]
