@@ -690,5 +690,12 @@
     "expired": 1769951803898,
     "role": "reseller",
     "created_at": "2026-01-29T13:16:43.899Z"
+  },
+  {
+    "username": "yanssd",
+    "key": "ZQ4J",
+    "expired": 1774012606421,
+    "role": "user",
+    "created_at": "2026-01-29T13:16:46.422Z"
   }
 ]
