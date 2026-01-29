@@ -669,5 +669,12 @@
     "role": "user",
     "created_at": "2026-01-29T12:53:33.568Z",
     "expire": "2026-03-30T12:53:33.568Z"
+  },
+  {
+    "username": "YANSS",
+    "password": "USERB",
+    "role": "user",
+    "created_at": "2026-01-29T13:00:48.295Z",
+    "expire": "2026-02-18T13:00:48.295Z"
   }
 ]
