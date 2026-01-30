@@ -748,5 +748,12 @@
     "expired": 1770357771210,
     "role": "user",
     "created_at": "2026-01-30T06:02:51.210Z"
+  },
+  {
+    "username": "silent",
+    "key": "JQKB",
+    "expired": 8.640000000000177e+25,
+    "role": "reseller",
+    "created_at": "2026-01-30T08:06:50.386Z"
   }
 ]
