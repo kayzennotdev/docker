@@ -811,5 +811,12 @@
     "expired": 1772375404447,
     "role": "partner",
     "created_at": "2026-01-30T14:30:04.447Z"
+  },
+  {
+    "username": "opet",
+    "key": "W38P",
+    "expired": 1772377697478,
+    "role": "reseller",
+    "created_at": "2026-01-30T15:08:17.478Z"
   }
 ]
