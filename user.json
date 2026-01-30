@@ -790,5 +790,12 @@
     "expired": 1770387738336,
     "role": "reseller",
     "created_at": "2026-01-30T14:22:18.336Z"
+  },
+  {
+    "username": "Assalamualaikum",
+    "password": "Assalamualaikum",
+    "role": "tangankanan",
+    "created_at": "2026-01-30T14:27:05.102Z",
+    "expire": "2026-03-01T14:27:05.102Z"
   }
 ]
