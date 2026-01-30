@@ -783,5 +783,12 @@
     "expired": 1770288875254,
     "role": "user",
     "created_at": "2026-01-30T10:54:35.254Z"
+  },
+  {
+    "username": "Riz",
+    "key": "SQU3",
+    "expired": 1778422878251,
+    "role": "partner",
+    "created_at": "2026-01-30T14:21:18.251Z"
   }
 ]
