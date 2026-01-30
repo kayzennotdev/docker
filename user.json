@@ -790,5 +790,12 @@
     "expired": 1778422878251,
     "role": "partner",
     "created_at": "2026-01-30T14:21:18.251Z"
+  },
+  {
+    "username": "vann",
+    "key": "RNJ3",
+    "expired": 1770387738336,
+    "role": "reseller",
+    "created_at": "2026-01-30T14:22:18.336Z"
   }
 ]
