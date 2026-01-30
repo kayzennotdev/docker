@@ -762,5 +762,12 @@
     "expired": 1770372021794,
     "role": "user",
     "created_at": "2026-01-30T10:00:21.794Z"
+  },
+  {
+    "username": "kenneth",
+    "key": "HCNV",
+    "expired": 1769854118965,
+    "role": "reseller",
+    "created_at": "2026-01-30T10:08:38.965Z"
   }
 ]
