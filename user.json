@@ -818,5 +818,12 @@
     "expired": 1772377697478,
     "role": "reseller",
     "created_at": "2026-01-30T15:08:17.478Z"
+  },
+  {
+    "username": "sarah",
+    "key": "5WKH",
+    "expired": 1770391014670,
+    "role": "user",
+    "created_at": "2026-01-30T15:16:54.670Z"
   }
 ]
