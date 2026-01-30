@@ -804,5 +804,12 @@
     "expired": 1778336999949,
     "role": "partner",
     "created_at": "2026-01-30T14:29:59.949Z"
+  },
+  {
+    "username": "rizz",
+    "key": "UR7T",
+    "expired": 1772375404447,
+    "role": "partner",
+    "created_at": "2026-01-30T14:30:04.447Z"
   }
 ]
