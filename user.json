@@ -733,5 +733,12 @@
     "expired": 1777490957138,
     "role": "reseller",
     "created_at": "2026-01-29T19:29:17.138Z"
+  },
+  {
+    "username": "daffa",
+    "key": "H2V8",
+    "expired": 1770263466952,
+    "role": "user",
+    "created_at": "2026-01-30T03:51:06.952Z"
   }
 ]
