@@ -967,5 +967,12 @@
     "role": "user",
     "created_at": "2026-01-31T15:14:51.101Z",
     "expire": "2027-01-31T15:14:51.101Z"
+  },
+  {
+    "username": "mayxz",
+    "key": "MGL9",
+    "expired": 1778512869244,
+    "role": "partner",
+    "created_at": "2026-01-31T15:21:09.244Z"
   }
 ]
