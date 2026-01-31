@@ -853,5 +853,12 @@
     "expired": 1772456104804,
     "role": "mods",
     "created_at": "2026-01-31T12:55:04.804Z"
+  },
+  {
+    "username": "ell",
+    "key": "QHE2",
+    "expired": 1770470855788,
+    "role": "user",
+    "created_at": "2026-01-31T13:27:35.788Z"
   }
 ]
