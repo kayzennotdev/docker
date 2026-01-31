@@ -960,5 +960,12 @@
     "role": "user",
     "created_at": "2026-01-31T15:14:51.101Z",
     "expire": "2027-01-31T15:14:51.101Z"
+  },
+  {
+    "username": "mayxz",
+    "key": "FRS2",
+    "expired": 10409873046730,
+    "role": "mods",
+    "created_at": "2026-01-31T15:24:06.731Z"
   }
 ]
