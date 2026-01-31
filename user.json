@@ -825,5 +825,12 @@
     "expired": 1770391014670,
     "role": "user",
     "created_at": "2026-01-30T15:16:54.670Z"
+  },
+  {
+    "username": "nama",
+    "key": "DDK7",
+    "expired": 1777621039008,
+    "role": "reseller",
+    "created_at": "2026-01-31T07:37:19.008Z"
   }
 ]
