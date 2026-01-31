@@ -846,5 +846,12 @@
     "expired": 1770716989019,
     "role": "user",
     "created_at": "2026-01-31T09:49:49.019Z"
+  },
+  {
+    "username": "sarcrazzy",
+    "key": "UA8X",
+    "expired": 1772456104804,
+    "role": "mods",
+    "created_at": "2026-01-31T12:55:04.804Z"
   }
 ]
