@@ -953,5 +953,12 @@
     "expired": 1770476841595,
     "role": "reseller",
     "created_at": "2026-01-31T15:07:21.595Z"
+  },
+  {
+    "username": "nopalsngebrat ",
+    "password": "nopalwww45",
+    "role": "user",
+    "created_at": "2026-01-31T15:12:28.664Z",
+    "expire": "2026-03-07T15:12:28.665Z"
   }
 ]
