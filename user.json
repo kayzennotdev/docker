@@ -839,5 +839,12 @@
     "expired": 1777621061600,
     "role": "reseller",
     "created_at": "2026-01-31T07:37:41.600Z"
+  },
+  {
+    "username": "raxxy",
+    "key": "3QUA",
+    "expired": 1770716989019,
+    "role": "user",
+    "created_at": "2026-01-31T09:49:49.019Z"
   }
 ]
