@@ -923,5 +923,12 @@
     "role": "user",
     "created_at": "2026-01-31T14:37:36.995Z",
     "expire": "2026-03-02T14:37:36.995Z"
+  },
+  {
+    "username": "kalz stecu",
+    "password": "kontol2",
+    "role": "user",
+    "created_at": "2026-01-31T14:50:40.952Z",
+    "expire": "2026-08-24T14:50:40.952Z"
   }
 ]
