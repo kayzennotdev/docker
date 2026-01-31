@@ -860,5 +860,12 @@
     "expired": 1770470855788,
     "role": "user",
     "created_at": "2026-01-31T13:27:35.788Z"
+  },
+  {
+    "username": "Zarxitez",
+    "key": "TLDW",
+    "expired": 1770471368169,
+    "role": "reseller",
+    "created_at": "2026-01-31T13:36:08.169Z"
   }
 ]
