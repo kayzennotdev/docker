@@ -953,5 +953,12 @@
     "expire": "2026-05-11T14:59:22.468Z",
     "key": "undefined",
     "expired": null
+  },
+  {
+    "username": "danil ganteng",
+    "key": "KXTD",
+    "expired": 1770476841595,
+    "role": "reseller",
+    "created_at": "2026-01-31T15:07:21.595Z"
   }
 ]
