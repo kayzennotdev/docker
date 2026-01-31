@@ -743,16 +743,6 @@
     "created_at": "2026-01-30T08:06:50.386Z"
   },
   {
-    "username": "p",
-    "password": "8777",
-    "role": "mods",
-    "created_at": "2026-01-30T09:23:20.534Z",
-    "expire": "2026-03-01T09:23:20.534Z",
-    "key": "566Y",
-    "expired": 1778512889999,
-    "updated_at": "2026-01-31T15:21:29.999Z"
-  },
-  {
     "username": "damz",
     "key": "8MK2",
     "expired": 1772357834124,
