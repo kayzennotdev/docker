@@ -867,5 +867,12 @@
     "expired": 1770471368169,
     "role": "reseller",
     "created_at": "2026-01-31T13:36:08.169Z"
+  },
+  {
+    "username": "egianyapingg",
+    "key": "HXC8",
+    "expired": 1770471620186,
+    "role": "reseller",
+    "created_at": "2026-01-31T13:40:20.186Z"
   }
 ]
