@@ -832,5 +832,12 @@
     "expired": 1777621039008,
     "role": "reseller",
     "created_at": "2026-01-31T07:37:19.008Z"
+  },
+  {
+    "username": "araa",
+    "key": "PTLC",
+    "expired": 1777621061600,
+    "role": "reseller",
+    "created_at": "2026-01-31T07:37:41.600Z"
   }
 ]
