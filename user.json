@@ -764,10 +764,11 @@
   },
   {
     "username": "rizz",
-    "key": "UR7T",
-    "expired": 1772375404447,
-    "role": "partner",
-    "created_at": "2026-01-30T14:30:04.447Z"
+    "key": "D592",
+    "expired": 1770536809000,
+    "role": "reseller",
+    "created_at": "2026-01-30T14:30:04.447Z",
+    "updated_at": "2026-02-01T07:46:49.001Z"
   },
   {
     "username": "opet",
