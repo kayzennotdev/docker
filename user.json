@@ -967,5 +967,12 @@
     "expired": 1778491001687,
     "role": "reseller",
     "created_at": "2026-02-01T09:16:41.689Z"
+  },
+  {
+    "username": "aurel",
+    "key": "5E3G",
+    "expired": 1772529446437,
+    "role": "reseller",
+    "created_at": "2026-02-01T09:17:26.437Z"
   }
 ]
