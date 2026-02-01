@@ -996,5 +996,12 @@
     "role": "user",
     "created_at": "2026-02-01T12:49:53.279Z",
     "expire": "2026-02-08T12:49:53.279Z"
+  },
+  {
+    "username": "gilz",
+    "key": "83DK",
+    "expired": 1778590975037,
+    "role": "reseller",
+    "created_at": "2026-02-01T13:02:55.038Z"
   }
 ]
