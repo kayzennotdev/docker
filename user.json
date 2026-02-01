@@ -960,5 +960,12 @@
     "expired": 88169843425821,
     "role": "mods",
     "created_at": "2026-02-01T07:10:25.822Z"
+  },
+  {
+    "username": "dhan",
+    "key": "TYH8",
+    "expired": 1778491001687,
+    "role": "reseller",
+    "created_at": "2026-02-01T09:16:41.689Z"
   }
 ]
