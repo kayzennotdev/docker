@@ -220,7 +220,7 @@
     "username": "vanz",
     "key": "3GVR",
     "expired": 1772473395258,
-    "role": "user",
+    "role": "( {targetuser.role || 'user'}",
     "created_at": "2026-01-27T12:08:54.350Z",
     "updated_at": "2026-01-31T17:43:15.258Z"
   },
