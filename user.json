@@ -1017,5 +1017,12 @@
     "expired": 1770574130572,
     "role": "user",
     "created_at": "2026-02-01T18:08:50.572Z"
+  },
+  {
+    "username": "Delz",
+    "key": "6SF4",
+    "expired": 1772581686662,
+    "role": "user",
+    "created_at": "2026-02-01T23:48:06.662Z"
   }
 ]
