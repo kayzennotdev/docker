@@ -982,5 +982,12 @@
     "expired": 1770552475209,
     "role": "user",
     "created_at": "2026-02-01T12:07:55.209Z"
+  },
+  {
+    "username": "angga",
+    "key": "9KAT",
+    "expired": 1770207189802,
+    "role": "reseller",
+    "created_at": "2026-02-01T12:13:09.802Z"
   }
 ]
