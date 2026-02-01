@@ -989,5 +989,12 @@
     "expired": 1770207189802,
     "role": "reseller",
     "created_at": "2026-02-01T12:13:09.802Z"
+  },
+  {
+    "username": "tokk",
+    "password": "datuk123",
+    "role": "user",
+    "created_at": "2026-02-01T12:49:53.279Z",
+    "expire": "2026-02-08T12:49:53.279Z"
   }
 ]
