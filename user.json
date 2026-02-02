@@ -1038,12 +1038,5 @@
     "expired": 1777776857017,
     "role": "reseller",
     "created_at": "2026-02-02T02:54:17.017Z"
-  },
-  {
-    "username": "SGH99",
-    "password": "2005",
-    "role": "user",
-    "created_at": "2026-02-02T03:49:56.356Z",
-    "expire": "2026-05-12T03:49:56.356Z"
   }
 ]
