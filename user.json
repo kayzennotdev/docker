@@ -1066,5 +1066,12 @@
     "expired": 1772603399892,
     "role": "user",
     "created_at": "2026-02-02T05:49:59.892Z"
+  },
+  {
+    "username": "kris",
+    "key": "XS3V",
+    "expired": 1778657658675,
+    "role": "reseller",
+    "created_at": "2026-02-02T07:34:18.676Z"
   }
 ]
