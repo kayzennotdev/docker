@@ -1073,5 +1073,12 @@
     "expired": 1778657658675,
     "role": "reseller",
     "created_at": "2026-02-02T07:34:18.676Z"
+  },
+  {
+    "username": "zey",
+    "key": "GGAU",
+    "expired": 1770196164379,
+    "role": "user",
+    "created_at": "2026-02-02T09:09:24.381Z"
   }
 ]
