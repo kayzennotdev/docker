@@ -1034,10 +1034,11 @@
   },
   {
     "username": "opexx",
-    "key": "EFXW",
-    "expired": 1777776857017,
+    "key": "RZ8D",
+    "expired": 1777801425065,
     "role": "reseller",
-    "created_at": "2026-02-02T02:54:17.017Z"
+    "created_at": "2026-02-02T02:54:17.017Z",
+    "updated_at": "2026-02-02T09:43:45.065Z"
   },
   {
     "username": "SGHH99",
