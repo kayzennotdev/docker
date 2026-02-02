@@ -1024,5 +1024,12 @@
     "expired": 1772581686662,
     "role": "user",
     "created_at": "2026-02-01T23:48:06.662Z"
+  },
+  {
+    "username": "egiannihdek",
+    "password": "egianyapingg",
+    "role": "user",
+    "created_at": "2026-02-02T00:49:29.318Z",
+    "expire": "2027-01-21T00:49:29.318Z"
   }
 ]
