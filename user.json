@@ -1172,5 +1172,12 @@
     "expired": 1778764833599,
     "role": "user",
     "created_at": "2026-02-03T13:20:33.599Z"
+  },
+  {
+    "username": "ADITIA",
+    "key": "KBB2",
+    "expired": 1772728247399,
+    "role": "reseller",
+    "created_at": "2026-02-03T16:30:47.399Z"
   }
 ]
