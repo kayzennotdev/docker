@@ -1123,5 +1123,12 @@
     "role": "user",
     "created_at": "2026-02-03T08:08:11.380Z",
     "expire": "2026-05-14T08:08:11.380Z"
+  },
+  {
+    "username": "Cihuy",
+    "password": "P",
+    "role": "user",
+    "created_at": "2026-02-03T08:12:28.727Z",
+    "expire": "2026-03-05T08:12:28.727Z"
   }
 ]
