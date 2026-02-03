@@ -1144,5 +1144,12 @@
     "expired": 1770373105112,
     "role": "user",
     "created_at": "2026-02-03T10:18:25.112Z"
+  },
+  {
+    "username": "derren",
+    "key": "4UVZ",
+    "expired": 1778673845162,
+    "role": "reseller",
+    "created_at": "2026-02-03T12:04:05.162Z"
   }
 ]
