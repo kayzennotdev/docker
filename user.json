@@ -1109,5 +1109,12 @@
     "expired": 1772691695838,
     "role": "tangankanan",
     "created_at": "2026-02-03T06:21:35.838Z"
+  },
+  {
+    "username": "Anwar",
+    "key": "FWZE",
+    "expired": 1772691948576,
+    "role": "reseller",
+    "created_at": "2026-02-03T06:25:48.576Z"
   }
 ]
