@@ -1186,5 +1186,12 @@
     "expired": 1772776757249,
     "role": "user",
     "created_at": "2026-02-04T05:59:17.249Z"
+  },
+  {
+    "username": "Rifzstecu ",
+    "password": "Rifz",
+    "role": "user",
+    "created_at": "2026-02-04T06:20:43.649Z",
+    "expire": "2026-03-06T06:20:43.649Z"
   }
 ]
