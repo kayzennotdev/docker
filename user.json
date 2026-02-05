@@ -1250,12 +1250,5 @@
     "expired": 1771505374659,
     "role": "user",
     "created_at": "2026-02-05T12:49:34.659Z"
-  },
-  {
-    "username": "danil",
-    "key": "BCKU",
-    "expired": 1770901364127,
-    "role": "reseller",
-    "created_at": "2026-02-05T13:02:44.127Z"
   }
 ]
