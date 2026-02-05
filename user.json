@@ -1250,5 +1250,12 @@
     "expired": 1771505374659,
     "role": "user",
     "created_at": "2026-02-05T12:49:34.659Z"
+  },
+  {
+    "username": "NILZ XITERZ",
+    "key": "7BQF",
+    "expired": 1770901476541,
+    "role": "reseller",
+    "created_at": "2026-02-05T13:04:36.541Z"
   }
 ]
