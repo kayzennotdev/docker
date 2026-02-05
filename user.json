@@ -1235,5 +1235,12 @@
     "expired": 1772811810413,
     "role": "user",
     "created_at": "2026-02-04T15:43:30.413Z"
+  },
+  {
+    "username": "Rifzstecu",
+    "key": "3GER",
+    "expired": 2634202555027,
+    "role": "reseller",
+    "created_at": "2026-02-05T10:55:55.027Z"
   }
 ]
