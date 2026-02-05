@@ -1277,7 +1277,10 @@
     "password": "repan11",
     "role": "user",
     "created_at": "2026-02-05T14:38:17.382Z",
-    "expire": "2026-02-11T14:38:17.382Z"
+    "expire": "2026-02-11T14:38:17.382Z",
+    "key": "HN6L",
+    "expired": 1770822415411,
+    "updated_at": "2026-02-05T15:06:55.412Z"
   },
   {
     "username": "haikal",
