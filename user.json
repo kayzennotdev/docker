@@ -1257,5 +1257,12 @@
     "expired": 1770901476541,
     "role": "reseller",
     "created_at": "2026-02-05T13:04:36.541Z"
+  },
+  {
+    "username": "wardhan",
+    "key": "2V8K",
+    "expired": 1770728911942,
+    "role": "user",
+    "created_at": "2026-02-05T13:08:31.943Z"
   }
 ]
