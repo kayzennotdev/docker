@@ -112,9 +112,11 @@
   {
     "username": "1",
     "password": "1",
-    "role": "user",
+    "role": "( {targetuser.role || 'user'}",
     "created_at": "2026-01-26T17:15:23.645Z",
-    "expire": "2026-02-25T17:15:23.645Z"
+    "expire": "2026-02-25T17:15:23.645Z",
+    "key": "undefined",
+    "expired": null
   },
   {
     "username": "Satz",
