@@ -1060,10 +1060,11 @@
   },
   {
     "username": "zey",
-    "key": "GGAU",
-    "expired": 1770196164379,
-    "role": "user",
-    "created_at": "2026-02-02T09:09:24.381Z"
+    "key": "4A4F",
+    "expired": 1772549450654,
+    "role": "reseller",
+    "created_at": "2026-02-02T09:09:24.381Z",
+    "updated_at": "2026-02-06T14:50:50.654Z"
   },
   {
     "username": "fatur",
