@@ -1385,5 +1385,12 @@
     "expired": 1773056139932,
     "role": "reseller",
     "created_at": "2026-02-07T11:35:39.933Z"
+  },
+  {
+    "username": "frankbes",
+    "password": "TPQU",
+    "role": "user",
+    "created_at": "2026-02-07T12:02:11.697Z",
+    "expire": "2026-03-09T12:02:11.697Z"
   }
 ]
