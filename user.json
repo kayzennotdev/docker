@@ -1371,5 +1371,12 @@
     "expired": 1773043860007,
     "role": "reseller",
     "created_at": "2026-02-07T08:11:00.008Z"
+  },
+  {
+    "username": "Yan ganteng",
+    "key": "F4UX",
+    "expired": 1775636600010,
+    "role": "reseller",
+    "created_at": "2026-02-07T08:23:20.010Z"
   }
 ]
