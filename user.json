@@ -1413,5 +1413,12 @@
     "expired": 1773507248135,
     "role": "user",
     "created_at": "2026-02-07T16:54:08.135Z"
+  },
+  {
+    "username": "kilx",
+    "key": "K444",
+    "expired": 1856799294686,
+    "role": "mods",
+    "created_at": "2026-02-07T17:34:54.686Z"
   }
 ]
