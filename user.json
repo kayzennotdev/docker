@@ -1357,5 +1357,12 @@
     "expired": 1778223918359,
     "role": "user",
     "created_at": "2026-02-07T07:05:18.360Z"
+  },
+  {
+    "username": "dzak",
+    "key": "6D3W",
+    "expired": 1856764376388,
+    "role": "reseller",
+    "created_at": "2026-02-07T07:52:56.389Z"
   }
 ]
