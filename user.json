@@ -1434,5 +1434,12 @@
     "expired": 1856837161477,
     "role": "user",
     "created_at": "2026-02-08T04:06:01.477Z"
+  },
+  {
+    "username": "zadev",
+    "key": "C68G",
+    "expired": 1856837960057,
+    "role": "partner",
+    "created_at": "2026-02-08T04:19:20.057Z"
   }
 ]
