@@ -1441,5 +1441,12 @@
     "expired": 88170439023324,
     "role": "mods",
     "created_at": "2026-02-08T04:37:03.325Z"
+  },
+  {
+    "username": "hankacunk",
+    "key": "TK6L",
+    "expired": 1773119478983,
+    "role": "reseller",
+    "created_at": "2026-02-08T05:11:18.983Z"
   }
 ]
