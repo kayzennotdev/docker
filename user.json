@@ -1455,5 +1455,12 @@
     "expired": 1770627778635,
     "role": "reseller",
     "created_at": "2026-02-08T09:02:58.635Z"
+  },
+  {
+    "username": "KaelAja",
+    "key": "RRLC",
+    "expired": 1773147891829,
+    "role": "reseller",
+    "created_at": "2026-02-08T13:04:51.830Z"
   }
 ]
