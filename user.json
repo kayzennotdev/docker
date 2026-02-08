@@ -1469,5 +1469,12 @@
     "expired": 1779122141345,
     "role": "reseller",
     "created_at": "2026-02-08T16:35:41.346Z"
+  },
+  {
+    "username": "arsmods",
+    "key": "G7E7",
+    "expired": 1770750689610,
+    "role": "user",
+    "created_at": "2026-02-08T19:11:29.610Z"
   }
 ]
