@@ -1582,5 +1582,12 @@
     "expired": 1773239198261,
     "role": "partner",
     "created_at": "2026-02-09T14:26:38.261Z"
+  },
+  {
+    "username": "BandoSay",
+    "key": "ZBRE",
+    "expired": 1770652241285,
+    "role": "user",
+    "created_at": "2026-02-09T15:20:41.285Z"
   }
 ]
