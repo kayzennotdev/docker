@@ -1532,5 +1532,12 @@
     "role": "tangankanan",
     "created_at": "2026-02-09T09:44:11.964Z",
     "expire": "2026-05-19T09:44:11.964Z"
+  },
+  {
+    "username": "maherganteng",
+    "key": "85HB",
+    "expired": 1773226955325,
+    "role": "partner",
+    "created_at": "2026-02-09T11:02:35.325Z"
   }
 ]
