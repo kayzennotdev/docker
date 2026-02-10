@@ -1640,5 +1640,12 @@
     "expired": 1771148489458,
     "role": "user",
     "created_at": "2026-02-10T09:41:29.458Z"
+  },
+  {
+    "username": "Fatan",
+    "key": "Q4PN",
+    "expired": 1779274177890,
+    "role": "reseller",
+    "created_at": "2026-02-10T10:49:37.890Z"
   }
 ]
