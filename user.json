@@ -84,9 +84,10 @@
   {
     "username": "Ssyy",
     "password": "97ZS",
-    "role": "user",
+    "role": "( {targetuser.role || 'user'}",
     "created_at": "2026-01-26T16:45:59.794Z",
-    "expire": "2026-02-25T16:45:59.794Z"
+    "expire": "2026-02-25T16:45:59.794Z",
+    "key": "undefined"
   },
   {
     "username": "balzx",
