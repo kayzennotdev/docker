@@ -1670,5 +1670,12 @@
     "expired": 1772893895144,
     "role": "reseller",
     "created_at": "2026-02-10T14:31:35.145Z"
+  },
+  {
+    "username": "ibnu",
+    "key": "55FG",
+    "expired": 88170675133669,
+    "role": "reseller",
+    "created_at": "2026-02-10T22:12:13.669Z"
   }
 ]
