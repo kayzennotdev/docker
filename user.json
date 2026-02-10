@@ -1608,10 +1608,11 @@
   },
   {
     "username": "Wulan",
-    "key": "D3FY",
-    "expired": 1779253124216,
-    "role": "reseller",
-    "created_at": "2026-02-10T04:58:44.217Z"
+    "key": "TJ8E",
+    "expired": 1779287400678,
+    "role": "partner",
+    "created_at": "2026-02-10T04:58:44.217Z",
+    "updated_at": "2026-02-10T14:30:00.679Z"
   },
   {
     "username": "Chintya",
