@@ -767,10 +767,11 @@
   },
   {
     "username": "raxxy",
-    "key": "3QUA",
-    "expired": 1770716989019,
-    "role": "user",
-    "created_at": "2026-01-31T09:49:49.019Z"
+    "key": "XVWB",
+    "expired": 1771066256657,
+    "role": "reseller",
+    "created_at": "2026-01-31T09:49:49.019Z",
+    "updated_at": "2026-02-10T06:50:56.657Z"
   },
   {
     "username": "sarcrazzy",
