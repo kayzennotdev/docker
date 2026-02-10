@@ -1631,5 +1631,12 @@
     "expired": 1779253124216,
     "role": "reseller",
     "created_at": "2026-02-10T04:58:44.217Z"
+  },
+  {
+    "username": "Chintya",
+    "password": "Opp",
+    "role": "reseller",
+    "created_at": "2026-02-10T05:07:42.814Z",
+    "expire": "2026-08-29T05:07:42.814Z"
   }
 ]
