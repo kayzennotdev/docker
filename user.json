@@ -1713,5 +1713,12 @@
     "role": "user",
     "created_at": "2026-02-11T10:18:03.112Z",
     "expire": "2026-03-13T10:18:03.112Z"
+  },
+  {
+    "username": "lanzz",
+    "key": "XB3U",
+    "expired": 1779363435382,
+    "role": "mods",
+    "created_at": "2026-02-11T11:37:15.382Z"
   }
 ]
