@@ -1692,5 +1692,12 @@
     "expired": 1771653425953,
     "role": "reseller",
     "created_at": "2026-02-11T05:57:05.954Z"
+  },
+  {
+    "username": "varhost",
+    "key": "W59P",
+    "expired": 1857115398952,
+    "role": "mods",
+    "created_at": "2026-02-11T09:23:18.952Z"
   }
 ]
