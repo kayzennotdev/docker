@@ -1744,5 +1744,12 @@
     "expired": 1771492387353,
     "role": "user",
     "created_at": "2026-02-12T09:13:07.353Z"
+  },
+  {
+    "username": "vanzplenger",
+    "key": "2856",
+    "expired": 1771062446896,
+    "role": "reseller",
+    "created_at": "2026-02-12T09:47:26.896Z"
   }
 ]
